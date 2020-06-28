@@ -12,7 +12,7 @@ Projeto de Perguntas e Resposta
  Express - Para receber as requisições HTML
 ##
 ### Configuração
-#### ****É necessário que tenha um banco de dados criados****
+#### ****É necessário que tenha um banco de dados criados (configurações em -> /databa/database.js)****
 ##
 ### Instalando as bibliotecas
 
